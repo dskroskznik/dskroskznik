@@ -3,7 +3,7 @@
 - 👀 I’m interested in Computer Science💻/Data📊, Video Editing🎞, Music🎶, Hockey🏒 & Food🥩
 - 🌱 I’m currently learning Python🐍, Chess♟ & French🥖 
 - 💞️ I’m looking to collaborate on Data Analysis & Web Dev Projects👨‍💻
-- 📫 How to reach me through Email📧: dskroskznik@gmail.com | Text📲: (813)817-5040
+- 📫 How to reach me through Email📧: dskroskznik@gmail.com 
 - 🟦 Check out my LinkedIn Page: https://www.linkedin.com/in/dylan-skroskznik-a013b324a
 <!---
 dskroskznik/dskroskznik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
