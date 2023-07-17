@@ -2,7 +2,7 @@
 - 📚 Studying CSE @ Uni. South Florida🐂
 - 👀 I’m interested in Computer Science💻/Data📊, Video Editing🎞, Music🎶, Hockey🏒 & Food🥩
 - 🌱 I’m currently learning Python🐍, Chess♟ & French🥖 
-- 💞️ I’m looking to collaborate on Data Analysis & Web Dev Projects👨‍💻
+- 💞️ I’m looking to collaborate on Data Analytics & Software Engineering Projects👨‍💻
 - 📫 How to reach me through Email📧: dskroskznik@gmail.com 
 - 🟦 Check out my LinkedIn Page: https://www.linkedin.com/in/dylan-skroskznik-a013b324a
 <!---
