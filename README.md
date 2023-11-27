@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan Skroskznik 
 - 📚 Senior Studying CSE @ Uni. South Florida🐂
-- 👀 I’m interested in Computer Science💻, Data📊, Video🎞, Music🎶, Hockey🏒 & Food🥩
+- 👀 I’m interested in Computer Science💻, Data📊, Filming🎞, Music🎶, Hockey🏒 & Food🥩
 - 🌱 I’m currently learning MS .Net in C#🪟, Node.JS❇️ & French🥖 
 - 💞️ I’m looking to collaborate on Data Analytics & Software Engineering Projects👨‍💻
 - 📫 Reach me through Email📧: dskroskznik@gmail.com 
