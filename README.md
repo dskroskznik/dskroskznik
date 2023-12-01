@@ -1,7 +1,7 @@
 - 👋 Hi, I am Dylan Skroskznik 
 - 📚 BA/AA in Computer Science, Grad. Class of '23 @ USF🐂
 - 👀 I’m interested in Computer Science💻, Data📊, Film🎞, Music🎶, Hockey🏒 & Food🥩
-- 🌱 I’m currently learning React w/ Node.JS ❇️, Machine Learning w/ LLM💠 & French🥖 
+- 🌱 I’m currently learning MERN Framework❇️, ML w/ LLM💠 & French🥖 
 - 💞️ I’m looking to collaborate on Software Engineering, Data Analysis & Machine Learning Projects👨‍💻
 - 📫 Reach me through Email📧: dskroskznik@gmail.com 
 - 🟦 Check out my LinkedIn Page: https://www.linkedin.com/in/dylan-skroskznik-a013b324a
