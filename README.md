@@ -1,5 +1,5 @@
 - 👋 Hi, I am Dylan Skroskznik 
-- 📚 BA/AA in Computer Science, Grad. Class of '23 @ USF🐂
+- 📚 BS/AA in Computer Science, Grad. Class of '23 @ USF🐂
 - 👀 I’m interested in Computer Science💻, Data📊, Film🎞, Music🎶, Hockey🏒 & Food🥩
 - 🌱 I’m currently learning MERN Framework❇️, ML w/ LLM💠 & French🥖 
 - 💞️ I’m looking to collaborate on Software Engineering, Data Analysis & Machine Learning Projects👨‍💻
