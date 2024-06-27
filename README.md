@@ -65,7 +65,7 @@ What matters most to me is maintaining a strong work ethic and showing respect f
  professional growth.
 
 ```
-[Here's My Resume]()
+[Here's My Resume](dskroskznik/Official_Resume_Dylan_S.pdf)
 
 ### Some Interests/Hobbies of mine include:
  - Developing Web Applications/Practicing Programming 💻 
