@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - CS Areas of Interest include Software Development, Machine Learning, Data Analysis & Data Management.
 - Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, cooking.
 - Currently pursuing interests in entry level/full-time positions in the Computer Science and Engineering fields. 
-- [Here's My Resume](dskroskznik/Official_Resume_Dylan_S.pdf)
+- [Here's My Resume](/Official_Resume_Dylan_S.pdf)
 
 </details>
 
@@ -65,7 +65,7 @@ What matters most to me is maintaining a strong work ethic and showing respect f
  professional growth.
 
 ```
-[Here's My Resume](dskroskznik/Official_Resume_Dylan_S.pdf)
+[Here's My Resume](/Official_Resume_Dylan_S.pdf)
 
 ### Some Interests/Hobbies of mine include:
  - Developing Web Applications/Practicing Programming 💻 
