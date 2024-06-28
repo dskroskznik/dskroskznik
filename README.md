@@ -34,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-
 ```py
 Ever since I was young one born and raised in Tampa, Florida, I always had the 
  drive to create and a passion to share new ideas and discoveries. I've uncovered 
@@ -74,7 +73,127 @@ What matters most to me is maintaining a strong work ethic and showing respect f
  - Listening to Music/Playing Instruments, like Piano and Guitar 🎹 
  - Learning to Cook More Meals and Dishes 🥘
  - Practicing a New Language on my freetime, like French 🥖
-
+<!-- Business Card --->
+<!DOCTYPE html>
+  <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    </head>
+    <body>
+        <table id="zs-output-sig" border="0" cellpadding="0" cellspacing="0"
+            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse; width:550px;">
+            <tbody><tr></tr>
+                <tr><td style="padding:0px!important;">
+                        <table id="inner-table" border="0" cellpadding="0" cellspacing="0"
+                            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse;">
+                            <tbody><tr><td width="121" style="padding-right: 14px;">
+                                        <table border="0" cellpadding="0" cellspacing="0"
+                                            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse;">
+                                            <tbody><tr><td style="border-collapse: collapse; line-height: 0px; padding-right: 1px;">
+                                                        <p style="margin: 0.04px;">
+                                                            <img height="173" width="121" alt="image" border="0"
+                                                                src="https://img2.gimm.io/51a7a667-d6c4-44b2-a3b6-500ab3d1c52f/-/crop/271x386/85,32/-/preview/-/resize/242x346/image.png"
+                                                                style="border-radius:10px; ms-border-radius:10px; webkit-border-radius:10px; o-border-radius:10px; khtml-border-radius:10px; moz-border-radius:10px;">
+                                                        </p>
+                                                    </td></tr></tbody>
+                                        </table>
+                                    </td>
+                                    <td style="padding:0px!important;">
+                                        <table border="0" cellpadding="0" cellspacing="0"
+                                            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse;">
+                                            <tbody><tr><td style="padding-right: 16px;">
+                                                        <table border="0" cellpadding="0" cellspacing="0"
+                                                            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse;">
+                                                            <tbody><tr><td style="border-collapse:collapse;font-family:Calibri,Helvetica,sans-serif;font-size:30px;font-style:normal;line-height:32px;font-weight:400;padding:0px!important;">
+                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:30px;font-style:normal;line-height:32px;font-weight:400;color:#282828;display:inline;">Dylan Skroskznik</span>
+                                                                        </p></td></tr>
+                                                                <tr><td style="border-collapse: collapse; font-family: Calibri, Helvetica, sans-serif; font-size: 21px; font-style: normal; line-height: 23px; font-weight: 700; padding-bottom: 16px;">
+                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:21px;font-style:normal;line-height:23px;font-weight:700;color:#282828;display:inline;">B.S.C.S</span>
+                                                                        </p></td></tr>
+                                                                <tr><td style="border-collapse:collapse;font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;padding:0px!important;">
+                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:14px;font-style:normal;line-height:16px;font-weight:400;color:#5e4036;display:inline;">Mobile:</span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#282828;display:inline;"> (813) 817-5040</span>
+                                                                        </p></td></tr>
+                                                                <tr><td style="border-collapse:collapse;font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;padding:0px!important;">
+                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#5e4036;display:inline;">Web:</span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#282828;display:inline;"> https://linktr.ee/dskroskznik</span>
+                                                                        </p></td></tr>
+                                                                <tr><td style="border-collapse: collapse; font-family: Calibri, Helvetica, sans-serif; font-size: 15px; font-style: normal; line-height: 17px; font-weight: 400; padding-bottom: 6px;">
+                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#5e4036;display:inline;">Email:</span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#282828;display:inline;"> dskroskznik@gmail.com</span>
+                                                                        </p></td></tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                    <td
+                                                        style="border-collapse:collapse;background-color:#000001;width:3px;vertical-align:super;padding:0px!important;">
+                                                    </td>
+                                                    <td style="border-collapse:collapse;padding-right:16px;"></td>
+                                                    <td style="padding:0px!important;">
+                                                        <table border="0" cellpadding="0" cellspacing="0"
+                                                            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="padding-bottom: 10px;">
+                                                                        <p style="margin: 0.04px;"><a
+                                                                                style="font-size:0px;line-height:0px;"
+                                                                                target="_blank" rel="nofollow"
+                                                                                href="https://github.com/dskroskznik"><img
+                                                                                    height="34" width="34" alt="github"
+                                                                                    border="0"
+                                                                                    src="https://img1.gimm.io/assets/social/96/171616/4/github.png"></a>
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding-bottom: 10px;">
+                                                                        <p style="margin: 0.04px;"><a
+                                                                                style="font-size:0px;line-height:0px;"
+                                                                                target="_blank" rel="nofollow"
+                                                                                href="https://x.com/skroskznik_"><img
+                                                                                    height="34" width="34" alt="twitter"
+                                                                                    border="0"
+                                                                                    src="https://img1.gimm.io/assets/social/96/000000/4/twitter.png"></a>
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding-bottom: 10px;">
+                                                                        <p style="margin: 0.04px;"><a
+                                                                                style="font-size:0px;line-height:0px;"
+                                                                                target="_blank" rel="nofollow"
+                                                                                href="https://www.linkedin.com/in/dylan-skroskznik/"><img
+                                                                                    height="34" width="34"
+                                                                                    alt="linkedin" border="0"
+                                                                                    src="https://img1.gimm.io/assets/social/96/000000/4/linkedin.png"></a>
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding:0px!important;">
+                                                                        <p style="margin: 0.04px;"><a
+                                                                                style="font-size:0px;line-height:0px;"
+                                                                                target="_blank" rel="nofollow"
+                                                                                href="https://medium.com/@dskroskznik/about"><img
+                                                                                    height="34" width="34" alt="medium"
+                                                                                    border="0"
+                                                                                    src="https://img1.gimm.io/assets/social/96/native/4/medium.png"></a>
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table></td></tr></tbody>
+                                        </table></td></tr></tbody>
+                        </table></td></tr>
+                <tr>
+                    <td style="border-collapse:collapse;padding-bottom:16px;"><span></span></td>
+                </tr>
+                <tr>
+                    <td style="border-collapse:collapse">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+  </html>
+  
 ### Recent Blog Posts
 <!--START_SECTION:medium-->
 <!--END_SECTION:medium-->
