@@ -69,11 +69,11 @@ What matters most to me is maintaining a strong work ethic and showing respect f
 
 ### Some Interests/Hobbies of mine include:
  - Developing Web Applications/Practicing Programming 💻 
- - Analyizing and Maintaining Data 📊 
+ - Analyzing and Maintaining Data 📊 
  - Enjoying and Discovering Films🎞
  - Listening to Music/Playing Instruments, like Piano and Guitar 🎹 
  - Learning to Cook More Meals and Dishes 🥘
- - Practicing a New Language on my freetime, like French 🥖
+ - Practicing a New Language on my free time, like French 🥖
 <!-- Business Card --->
 <!DOCTYPE html>
   <html xmlns="http://www.w3.org/1999/xhtml">
