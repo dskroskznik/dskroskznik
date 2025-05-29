@@ -13,10 +13,9 @@ You can click the Preview link to take a look at your changes.
 <code>[![](https://img.shields.io/static/v1?style=for-the-badge&label=website&message=dylan%20s.&labelColor=1e90ff&color=white)](https://linktr.ee/dskroskznik)</code>
  <code>[![](https://img.shields.io/badge/follow-33333?style=for-the-badge&logo=github&label=github&labelColor=000&color=white)](https://github.com/dskroskznik)</code> 
  <code>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-skroskznik/)</code>
-<code>[![](https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)</code> 
 <br/> 
 <code>[![](https://img.shields.io/badge/Gmail-DC1410?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dskroskznik@gmail.com)</code> 
-<code>[![](https://img.shields.io/badge/twitter/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/skroskznik_)</code> 
+<code>[![](https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)</code> 
 <code>[![](https://img.shields.io/badge/Facebook-001fff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dylan-skroskroznik)</code> 
 <code>[![](https://img.shields.io/badge/discord-4169f1?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/368455378117328896)</code>
 
