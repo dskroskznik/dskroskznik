@@ -146,10 +146,10 @@ What matters most to me is maintaining a strong work ethic and showing respect f
                                                                         <p style="margin: 0.04px;"><a
                                                                                 style="font-size:0px;line-height:0px;"
                                                                                 target="_blank" rel="nofollow"
-                                                                                href="https://x.com/skroskznik_"><img
+                                                                                href="https://www.facebook.com/dylan-skroskroznik"><img
                                                                                     height="34" width="34" alt="twitter"
                                                                                     border="0"
-                                                                                    src="https://img1.gimm.io/assets/social/96/000000/4/twitter.png"></a>
+                                                                                    src="https://img1.gimm.io/assets/social/96/000000/4/facebook.png"></a>
                                                                         </p>
                                                                     </td>
                                                                 </tr>
