@@ -152,8 +152,10 @@ You can click the Preview link to take a look at your changes.
   </html>
 
 ### Recent Blog Posts
+<details><summary> View </summary>
 <!--START_SECTION:medium-->
 <!--END_SECTION:medium-->
+</details>
 
 ### GitHub Statistics 
 <details><summary> View </summary>
