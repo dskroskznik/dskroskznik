@@ -27,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 ### Interests/Hobbies of Mine:
  - Practicing Programming Skills while Developing Software/WebApps 💻 
  - Analyzing & Visualizing Varieties of Data 📊 
- - Watching & Discovering New Films & TV 🎞
+ - Watching & Discovering New Films/TV 🎞
  - Listening to Music & Practicing the Piano 🎹
- - Expanding my Pallet While Learning to Cook More Dishes 🥘 
+ - Expanding my Food Pallet When Learning to Cook More 🥘 
  - Staying Active by Attending The Gym 🏋️‍♀️
- - Learning Different World Dialect like French 🥖
+ - Learning Different World Lang like French 🥖
 
 
 > [Resume_Hyperlink](/Official_Resume_Dylan_S.pdf)
