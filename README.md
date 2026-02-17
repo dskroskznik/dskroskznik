@@ -136,7 +136,7 @@ You can click the Preview link to take a look at your changes.
                                                                                 href="https://medium.com/@dskroskznik/about"><img
                                                                                     height="34" width="34" alt="medium"
                                                                                     border="0"
-                                                                                    src="https://img1.gimm.io/assets/social/96/native/4/medium.png"></a>
+                                                                                    src="https://img1.gimm.io/assets/social/96/native/4/substack.png"></a>
                                                                         </p>
                                                                     </td>
                                                                 </tr>
