@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 > [Resume_Hyperlink](/Official_Resume_Dylan_S.pdf)
 
-> [Resume_Download.pdf](https://github.com/user-attachments/files/20752197/Official_Resume_Dylan_S.pdf)
+> [Resume_Download.pdf](https://github.com/user-attachments/files/25362805/Official_Resume_Dylan_S.pdf)
 
 <!-- Business Card --->
 <!DOCTYPE html>
