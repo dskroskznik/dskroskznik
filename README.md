@@ -179,40 +179,6 @@ You can click the Preview link to take a look at your changes.
 <!--[![Top Langs Dylan Used Light Only](https://github-readme-stats.vercel.app/api/top-langs/?username=dskroskznik&layout=donut&langs_count=8&theme=light#gh-light-only-mode)](https://github.com/dskroskznik/github-readme-stats#gh-light-mode-only)
 --> 
 </details>
-
-### Conclusion
-<details><summary> View </summary>
-
-```js
-Ever since I was young one born and raised in Tampa, Florida, I always had the 
- drive to create and a passion to share new ideas and discoveries. I've uncovered 
- through my passions and drive that computer science/engineering was the right 
- path for me in finding an enjoyable career.
-
-My academic journey begins in attending Hillsborough Comm. College as I studied 
- to recieve an Associates of Arts degree in Computer Science/Engineering. 
- I hastily then applied to attend the University of South Florida to study 
- Computer Science and within a couple of years graduate with my Bachelor's Degree 
- in Computer Science at USF. 
-
-In my pursuits through the Computer Science and Engineering field, I have 
- interests to pursue fields in Software Engineering and Development, Machine Learning 
- in large data sets, Data Analysis research, procedures, and management of data and software.
-
-As someone who consistently seeks new challenges and opportunities, I actively 
- seek to engage in my career field, extracurricular activities, industry/social news, 
- and building strong interpersonal relationships. These ambitions, combined with my desire 
- to expand my technical knowledge and collaborative skills, drive me to pursue innovative 
- ideas and develop critical skills to achieve my career goals. I am committed to creating new learning    
- experiences and growing alongside others.
-
-What matters most to me is maintaining a strong work ethic and showing respect for myself, my peers, and the key
- figures in my life. I am motivated by the potential to face new obstacles and uncover hidden potential. The
- knowledge that there is always something new to learn inspires me to improve and refine the skills I've gained
- academically. My ongoing pursuit of knowledge and self-challenge is essential for personal and 
- professional growth.
-
-```
 </details>
 
 <br />
